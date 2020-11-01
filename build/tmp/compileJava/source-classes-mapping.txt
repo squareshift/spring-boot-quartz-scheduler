@@ -1,0 +1,2 @@
+com/squareshift/quartz_scheduler/SquareshiftSpringBootQuartzSchedulerApplication.java
+ com.squareshift.quartz_scheduler.SquareshiftSpringBootQuartzSchedulerApplication
